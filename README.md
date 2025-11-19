@@ -38,9 +38,7 @@ npm install``
 
 4. The system will display a message indicating whether the document is authentic or not.
 
-## License
 
-This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 ## Acknowledgments
 - Metamask documentation
